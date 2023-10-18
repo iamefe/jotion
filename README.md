@@ -1,6 +1,6 @@
 # Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind
 
-### [🌐 See The Live Preview](https://project-management-app-mu.vercel.app/)
+### [🌐 See Live Preview](https://project-management-app-mu.vercel.app/)
 
 
 Key Features:
