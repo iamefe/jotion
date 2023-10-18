@@ -3,7 +3,7 @@
 ### [🌐 See Live Preview](https://project-management-app-mu.vercel.app/)
 
 
-Key Features:
+# Key Features:
 
 - Real-time database  🔗 
 - Notion-style editor 📝 
